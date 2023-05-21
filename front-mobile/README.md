@@ -70,3 +70,14 @@ module.exports = {
 
 </details>
 
+<details>
+<summary>Aula 2 mobile</summary>
+
+https://github.com/expo/google-fonts
+```bash
+ npx expo install @expo-google-fonts/inter expo-font
+```
+
+[svg no RN + Expo](https://github.com/kristerkari/react-native-svg-transformer)
+</details>
+
